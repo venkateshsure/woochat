@@ -1,0 +1,9 @@
+.counter-keys {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bg-container {
+  text-align: center;
+}
